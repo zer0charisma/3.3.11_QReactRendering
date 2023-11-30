@@ -1,0 +1,20 @@
+ .hobbies {
+  font-family: 'Arial', sans-serif; /* Set the font family */
+  margin-bottom: 20px; /* Add some bottom margin for spacing */
+  border-radius: 4px;
+  border: 3px solid white;
+}
+
+.hobbies h4 {
+  color: orangered; /* Set the heading color */
+}
+
+.hobbies ul {
+  list-style-type: disc; /* Set the list style to a filled circle */
+  padding-left: 20px; /* Add some left padding for spacing */
+}
+
+.hobbies li {
+  color: #000; /* Set the list item color */
+
+} 
